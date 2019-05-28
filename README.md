@@ -7,4 +7,4 @@ Yixin Sun, Paul Kim, Jacques Sham, Brian Wright, Crystal Sun, Xi Yang, Ziyu Fan,
 
 I served as the Product Manager. Tasks included: methodology creation, giving presentations, model tuning + more.
 
-Link for Sphinx documentation: https://msds698.github.io/product-analytics-group-project-team1/
+[Link for Sphinx documentation](https://msds698.github.io/product-analytics-group-project-team1/)
